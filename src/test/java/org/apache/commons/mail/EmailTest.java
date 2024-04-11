@@ -9,7 +9,7 @@ import org.junit.*;
 public class EmailTest {
 	private static final String[] TEST_EMAILS = {"123@abc.com", "abc.ded@gf.net", "dffe@mdf.org"}; // array of fake emails
 	private EmailConcrete email;
-	
+	// changing to initiate actions
 	
 	@Before
 	public void setUpEmailTest() throws Exception{
